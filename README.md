@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning HTML, CSS, Javascript, React, and Python.
+🌱 I’m currently learning _HTML, CSS, Javascript, React, and Python._
