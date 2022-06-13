@@ -12,4 +12,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-six-smoky.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
+[<img src="https://spotify-mauve-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
