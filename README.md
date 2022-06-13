@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=farizibnu&label=Profile%20views&color=ce9927&style=flat" alt="farizibnu" /> </p>
+
 🌱 I’m currently learning **HTML, CSS, Javascript, React, and Python.**
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
