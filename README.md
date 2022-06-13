@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=farizibnu&label=Profile%20views&color=ce9927&style=flat" alt="farizibnu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farizibnu&label=Profile%20views&color=ce9927&style=flat" alt="farizibnu" /> </p>
 
 🌱 I’m currently learning **HTML, CSS, Javascript, React, and Python.**
 
