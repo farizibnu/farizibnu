@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farizibnu&show_icons=true&locale=en&layout=compact" alt="farizibnu" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farizibnu&margin-w=15&margin-h=15&theme=darkhub" alt="farizibnu" /></a> </p>
+<p align="left" style="margin-top: 46px;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farizibnu&margin-w=15&margin-h=15&theme=darkhub" alt="farizibnu" /></a> </p>
