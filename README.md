@@ -1,4 +1,4 @@
-<h3 align="center">I'm a passionate frontend developer</h3>
+<h3 align="center">Hi there 👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farizibnu&label=Profile%20views&color=0e75b6&style=flat" alt="farizibnu" /> </p>
 
