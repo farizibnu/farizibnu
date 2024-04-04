@@ -19,8 +19,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farizibnu&theme=github_dark" alt="farizibnu" /></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farizibnu&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="farizibnu" /></p><br />
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farizibnu&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="farizibnu" /></p>\
+
 
 ***
 
