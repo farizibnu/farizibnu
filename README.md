@@ -35,15 +35,6 @@
 <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/-Basic Networking-007ACC?style=flat">
 
-### Programming Languages:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg"></code>
-<code><img height="20" src="https://img.icons8.com/color/452/c-programming.png"></code>
-<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/php-27-226042.png"></code>
-<code><img height="20" src="https://img.icons8.com/color/452/python.png"></code>
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farizibnu&show_icons=true&locale=en&theme=github_dark" alt="farizibnu" width="500" /></p>
 
 
