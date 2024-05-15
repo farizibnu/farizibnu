@@ -26,15 +26,9 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/-DevOps-000000?style=flat">
-<img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
-<img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft%20azure&logoColor=white">
 <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache%20maven&logoColor=white">
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring%20boot&logoColor=white">
 <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/-Basic Networking-007ACC?style=flat">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farizibnu&show_icons=true&locale=en&theme=github_dark" alt="farizibnu" width="500" /></p>
 
