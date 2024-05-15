@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring%20boot&logoColor=white">
 <img src="https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/-Jest-a6325e?style=flat&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/-OpenLayer-a6325e?style=flat&logo=openlayer&logoColor=white">
+<img src="https://img.shields.io/badge/-OpenLayers-a6325e?style=flat&logo=openlayers&logoColor=white">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farizibnu&show_icons=true&locale=en&theme=github_dark" alt="farizibnu" width="500" /></p>
 
